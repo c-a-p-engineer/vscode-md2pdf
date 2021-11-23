@@ -1,5 +1,5 @@
-# VsCode Markdown執筆環境
-VSCode だけで執筆を行う環境
+# VSCode Markdown執筆環境
+VSCodeだけで執筆を行う環境
 
 # Requirement
 * [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
@@ -11,6 +11,8 @@ VSCode だけで執筆を行う環境
   PDF プレビュー
   * [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
   `Draw.io` 画像制作用
+  * [テキスト校正くん](https://marketplace.visualstudio.com/items?itemName=ICS.japanese-proofreading)
+  テキスト校正用
 
 # Usage
 1. VsCodeでこのリポジトリ（フォルダ）を開く

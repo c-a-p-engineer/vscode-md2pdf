@@ -10,6 +10,7 @@
 有為の奥山　今日越えて
 浅き夢見じ　酔ひもせず
 
+
 # 見出し1
 ## 見出し2
 ### 見出し3
@@ -130,10 +131,10 @@ ___
 
 ## 画像
 
-![ハッカー](../images/sample.drawio.png "ハッカー")
+![sample](../images/sample.drawio.png "sample")
 
 ## 画像（サイズ指定）
-<img src="../images/sample.drawio.png" alt="ハッカー" width="200">
+<img src="../images/sample.drawio.png" alt="sample" width="200">
 
 ## ページ内リンク
 * [to header1](#header1)
@@ -148,8 +149,6 @@ ___
 📝 here be dragons
 :::
 
-
-
 ::: warning
 ⚠ here be dragons
 :::
@@ -157,9 +156,6 @@ ___
 ::: danger
 💀 here be dragons
 :::
-
-## 改ページ
-<div class="page"/>
 
 ## markdown-it-plantuml
 @startuml
@@ -177,10 +173,14 @@ stateDiagram
     }
 ```
 
+## 絵文字
+💬🗨🗯💭💥🪓📝⚠💀🥞
+
+## 改ページ
+<div class="page"/>
+
 # 奥付
-<div class="no-jisage">
-<p><strong>本のタイトル</strong><br>
-本のサブタイトル</p>
-<p>XXXX年X月XX日 初版発行</p>
-<p>著者 : @c_a_p_engineer</p>
-</div>
+**本のタイトル**
+本のサブタイトル
+XXXX年X月XX日 初版発行
+著者 : [@c_a_p_engineer](https://twitter.com/c_a_p_engineer)
